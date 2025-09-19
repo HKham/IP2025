@@ -15,4 +15,4 @@ https://youtu.be/CkGW5W4eE6I
 
 - Homework3
 
-<img src="chap.143.png" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
+<img src="chap.143.png" width="100%" height="100%"></img>
